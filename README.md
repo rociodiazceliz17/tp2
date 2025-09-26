@@ -4,7 +4,7 @@
 
 Este proyecto consiste en la creación de una **página web estática** dedicada a explorar las últimas tendencias y análisis de la moda actual.
 
-El objetivo principal de este trabajo fue aplicar los conocimientos iniciales de **estructura (HTML5)** y **estilos (CSS3)**, y practicar el control de versiones y la publicación en línea usando **GitHub Pages**. [cite_start]Este archivo README sirve como carta de presentación y documentación del proyecto[cite: 14].
+El objetivo principal de este trabajo fue aplicar los conocimientos iniciales de **estructura (HTML5)** y **estilos (CSS3)**, y practicar el control de versiones y la publicación en línea usando **GitHub Pages**.Este archivo README sirve como carta de presentación y documentación del proyecto.
 
 ## 2. Tecnologías Usadas
 
@@ -19,11 +19,9 @@ Se utilizaron las siguientes herramientas y lenguajes en el desarrollo:
 
 Para ver el sitio web en vivo y funcionando, hacé clic en el siguiente enlace:
 
-[Visitar "Fashion Forward"](https://tu-usuario.github.io/tu-repositorio-tp)
+[Visitar "Fashion Forward"](https://rociodiazceliz17.github.io/tp2/)
 
-*(**Importante**: Reemplazá la URL anterior por tu enlace real de GitHub Pages)*
-
-## 4. Estructura del Proyecto
+4. Estructura del Proyecto
 
 El repositorio incluye los siguientes archivos principales:
 
