@@ -1,4 +1,4 @@
-# Fashion Forward TP0X (Laboratorio de Programación)
+# Fashion Forward TP2X (Laboratorio de Programación)
 
 ## 1. Descripción del Proyecto
 
@@ -34,4 +34,4 @@ El repositorio incluye los siguientes archivos principales:
 | Autor | Rocio Diaz |
 | :--- | :--- |
 | Curso | 6to G PROA |
-| Email | tu-email-personal@ejemplo.com *(No olvides cambiar este correo)* |
+| Email | tu-email-personal@ejemplo.com |
